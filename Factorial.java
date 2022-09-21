@@ -16,4 +16,5 @@ for(int i=1;i<=num;i++)
 System.out.println("Factorial of " +num +"is :" +fact);
 }
 }
+//Thank you
   
